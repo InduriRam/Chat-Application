@@ -5,4 +5,4 @@ Client.py and Server.py are basic version of the files chatclient.py and chatser
 
 The server should run in the backgound before executing the clients
 
-Executing chatclient.py in multiple terminalwindows, creates miultiple clinets that can interact with server.
+Executing chatclient.py in multiple terminalwindows, creates miultiple clinets that can interact with server and each other.
